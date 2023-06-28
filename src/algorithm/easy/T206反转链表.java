@@ -1,5 +1,7 @@
 package algorithm.easy;
 
+import algorithm.common.ListNode;
+
 /**
  * @author liuwq
  * @create 2023-04-29 09:52

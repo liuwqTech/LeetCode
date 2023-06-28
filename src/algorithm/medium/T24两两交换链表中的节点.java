@@ -1,5 +1,7 @@
 package algorithm.medium;
 
+import algorithm.common.ListNode;
+
 /**
  * @author liuwq
  * @create 2023-04-29 19:14
